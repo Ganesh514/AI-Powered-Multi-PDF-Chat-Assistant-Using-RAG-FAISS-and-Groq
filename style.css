@@ -1,0 +1,23 @@
+.stApp {
+    background-color: #0E1117;
+}
+
+.chat-user {
+    background-color: #1f77ff;
+    color: white;
+    padding: 15px;
+    border-radius: 15px;
+    margin-bottom: 10px;
+}
+
+.chat-ai {
+    background-color: #262730;
+    color: white;
+    padding: 15px;
+    border-radius: 15px;
+    margin-bottom: 10px;
+}
+
+section[data-testid="stSidebar"] {
+    background-color: #161A23;
+}
